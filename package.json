@@ -1,0 +1,13 @@
+{
+  "name": "@waraw/sunflowerain",
+  "version": "0.1.0",
+  "description": "three.js game.",
+  "scripts": {},
+  "author": "George Waraw <georgewaraw@gmail.com>",
+  "license": "MIT",
+  "repository": "github:georgewaraw/sunflowerain",
+  "devDependencies": {
+    "popmotion": "^9.0.2",
+    "three": "^0.124.0"
+  }
+}

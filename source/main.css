@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+}
+
+#LOADSCREEN {
+	position: absolute;
+	top: 50%;
+	text-align: center;
+	color: white;
+}
